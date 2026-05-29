@@ -20,7 +20,7 @@ Rochester Institute of Technology, Rochester, New York
 
 ## Professional Summary
 
-I am a Ph.D. student in **Electrical and Computer Engineering** at the **Rochester Institute of Technology (RIT)** and a **Graduate Research Assistant** in the **Respiratory Technologies Laboratory**. My research lies at the intersection of **real-time embedded systems**, **ambulatory sensing**, **puff topography monitoring**, **exposure science**, **behavior-based yield modeling**, **pharmacokinetic modeling**, **signal processing**, **machine learning**, and **tobacco regulatory science**.
+I am a Ph.D. student in **Electrical and Computer Engineering** at the **Rochester Institute of Technology (RIT)** and a **Graduate Research Assistant** in the **Respiratory Technologies Laboratory**. My work focuses on **embedded sensing**, **puff topography monitoring**, **exposure science**, **behavior-based yield modeling**, **pharmacokinetic modeling**, and **data-driven analysis** of inhalant product use.
 
 ---
 
@@ -35,62 +35,19 @@ My doctoral research examines how **product characteristics**, **use behavior**,
 
 ---
 
-## Research Interests
-
-- Real-time embedded systems
-- Embedded sensing systems
-- Wireless Personal Use Monitors
-- Puff topography monitoring
-- Exposure science
-- Behavior-based yield
-- Pharmacokinetic Behavior-Based Yield modeling
-- Tobacco regulatory science
-- Signal processing
-- Machine learning
-- Artificial intelligence
-- Sensor calibration and validation
-- Natural environment data collection
-- Human behavior monitoring
-- Biomarker response modeling
-
----
-
 ## Selected Research Projects
 
 ### Wireless Personal Use Monitor Development and Evaluation
-I contribute to the design, deployment, calibration, validation, and performance evaluation of **Wireless Personal Use Monitors (wPUMs)** used to characterize puff topography in natural-environment studies of tobacco and electronic nicotine delivery system users.
+I contribute to the design, deployment, calibration, validation, and performance evaluation of **Wireless Personal Use Monitors (wPUMs)** for natural-environment puff topography studies.
 
 ### Natural Environment Observation Studies
-My work supports federally funded observation studies, including **OS8**, through monitor commissioning, calibration integrity review, deployment support, data management, data integrity assessment, and post-deployment performance analysis.
+My work supports federally funded observation studies, including **OS8**, through monitor commissioning, calibration review, deployment support, data management, and post-deployment performance analysis.
 
 ### Product-Specific Puff Topography Monitoring
-I work with puff topography monitoring systems for a range of inhalant products, including:
-
-- Cigarette
-- Hookah
-- JUUL
-- ACE
-- HYDE Edge
-- Geekbar Pulse
-- Geekbar Pulse X
-- Vuse Alto
+I work with puff topography monitoring systems for a range of inhalant products, including cigarette, hookah, JUUL, ACE, HYDE Edge, Geekbar Pulse, Geekbar Pulse X, and Vuse Alto.
 
 ### Emissions Testing and Product Characterization
-I also support emissions testing and product characterization studies using:
-
-- **Programmable Emissions Systems**
-- **TAP post-processing workflows**
-- **Behavior-based yield models**
-- **PKBBY models**
-
-### Research Systems and Platforms
-Current systems and instrumentation include:
-
-- Wireless Personal Use Monitors (wPUMs)
-- Gen 3 wPUM monitors
-- Gen 4 wPUM monitors
-- Embedded sensing and acquisition systems
-- Product-specific puff topography instrumentation
+I also support emissions testing and product characterization using **Programmable Emissions Systems**, **TAP post-processing workflows**, **behavior-based yield models**, and **PKBBY models**.
 
 ---
 
