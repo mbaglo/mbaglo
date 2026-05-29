@@ -12,7 +12,7 @@ Rochester Institute of Technology, Rochester, New York
 [![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)](#technical-skills)
 [![MATLAB](https://img.shields.io/badge/MATLAB-FF6F00?style=flat)](#technical-skills)
 [![STM32](https://img.shields.io/badge/STM32-03234B?style=flat)](#technical-skills)
-[![Research](https://img.shields.io/badge/Focus-Academic%20Research-2F5D8A?style=flat)](#current-research-focus)
+[![Research](https://img.shields.io/badge/Focus-Academic%20Research-2F5D8A?style=flat)](#research-focus)
 
 </div>
 
@@ -20,33 +20,29 @@ Rochester Institute of Technology, Rochester, New York
 
 ## Professional Summary
 
-I am a Ph.D. student in **Electrical and Computer Engineering** at the **Rochester Institute of Technology (RIT)** and a **Graduate Research Assistant** in the **Respiratory Technologies Laboratory**. My research is situated at the intersection of **real-time embedded systems**, **ambulatory sensing**, **puff topography monitoring**, **exposure science**, **behavior-based yield modeling**, **pharmacokinetic modeling**, **signal processing**, **machine learning**, and **tobacco regulatory science**.
-
-I am interested in building integrated research frameworks that connect **real-world inhalant product use behavior** to **measurable biological response**. My work combines embedded sensing, natural-environment data collection, computational modeling, and data-driven analysis to better understand exposure and biomarker outcomes.
+I am a Ph.D. student in **Electrical and Computer Engineering** at the **Rochester Institute of Technology (RIT)** and a **Graduate Research Assistant** in the **Respiratory Technologies Laboratory**. My research lies at the intersection of **real-time embedded systems**, **ambulatory sensing**, **puff topography monitoring**, **exposure science**, **behavior-based yield modeling**, **pharmacokinetic modeling**, **signal processing**, **machine learning**, and **tobacco regulatory science**.
 
 ---
 
-## Current Research Focus
+## Research Focus
 
-My doctoral research focuses on developing and validating an integrated framework that links **real-world inhalant product use behavior** to **biological response**. This work brings together:
+My doctoral research examines how **product characteristics**, **use behavior**, and **exposure dynamics** influence downstream **exposure biomarkers**, particularly nicotine and cotinine response. This work combines:
 
 - **Ambulatory puff topography measurement**
 - **Behavior-based exposure modeling**
 - **Pharmacokinetic modeling**
-- **Data-driven analysis** of user behavior and product characteristics
-
-Through this work, I seek to better understand how **product characteristics**, **use behavior**, and **exposure dynamics** influence downstream **exposure biomarkers**, particularly nicotine and cotinine response.
+- **Data-driven analysis of user behavior and product characteristics**
 
 ---
 
 ## Dissertation Research
 
-My dissertation research is centered on connecting **real-world inhalant product use** to **measurable biological response**. I use **Wireless Personal Use Monitors (wPUMs)** to measure puff topography in natural environments and integrate these behavioral measurements with **behavior-based yield** and **Pharmacokinetic Behavior-Based Yield (PKBBY)** modeling to estimate exposure and biomarker response.
+My dissertation research links **real-world inhalant product use** to **measurable biological response**. Using **Wireless Personal Use Monitors (wPUMs)**, I study puff topography in natural environments and integrate these behavioral measurements with **behavior-based yield** and **Pharmacokinetic Behavior-Based Yield (PKBBY)** modeling to estimate exposure and biomarker response.
 
 ### Current Dissertation Direction
 
 - Development of protocols for validation, commissioning, and performance assessment of **Wireless Personal Use Monitor** puff topography systems
-- Puff topography and session behavior analysis to quantify **natural-environment use patterns**
+- Analysis of puff topography and session behavior to quantify **natural-environment use patterns**
 - Integration of behavior-based yield and pharmacokinetic modeling to study **nicotine and cotinine biomarker response**
 
 ---
@@ -77,10 +73,10 @@ My dissertation research is centered on connecting **real-world inhalant product
 I contribute to the design, deployment, calibration, validation, and performance evaluation of **Wireless Personal Use Monitors (wPUMs)** used to characterize puff topography in natural-environment studies of tobacco and electronic nicotine delivery system users.
 
 ### Natural Environment Observation Studies
-My work supports federally funded observation studies, including **OS8**, and involves monitor commissioning, calibration integrity review, deployment support, data management, data integrity assessment, and post-deployment performance analysis.
+My work supports federally funded observation studies, including **OS8**, through monitor commissioning, calibration integrity review, deployment support, data management, data integrity assessment, and post-deployment performance analysis.
 
 ### Product-Specific Puff Topography Monitoring
-I work with puff topography monitors and monitoring workflows for a range of inhalant products, including:
+I work with puff topography monitoring systems for a range of inhalant products, including:
 
 - Cigarette
 - Hookah
@@ -94,13 +90,13 @@ I work with puff topography monitors and monitoring workflows for a range of inh
 ### Emissions Testing and Product Characterization
 I also support emissions testing and product characterization studies using:
 
-- Programmable Emissions Systems
-- TAP post-processing workflows
-- Behavior-based yield models
-- PKBBY models
+- **Programmable Emissions Systems**
+- **TAP post-processing workflows**
+- **Behavior-based yield models**
+- **PKBBY models**
 
 ### Research Systems and Platforms
-Current systems and platforms I work with include:
+Current systems and instrumentation include:
 
 - Wireless Personal Use Monitors (wPUMs)
 - Gen 3 wPUM monitors
@@ -200,7 +196,7 @@ Current systems and platforms I work with include:
 
 ## Professional Background
 
-Before beginning my Ph.D., I served as a **Lieutenant Commander in the Nigerian Navy**. I worked as a **Weapon Electrical Officer**, where I supervised the installation, maintenance, and operational readiness of electrical, electronic, and computer systems across naval platforms.
+Before beginning my Ph.D., I served as a **Lieutenant Commander in the Nigerian Navy**, where I worked as a **Weapon Electrical Officer** and supervised the installation, maintenance, and operational readiness of electrical, electronic, and computer systems across naval platforms.
 
 My final appointment before retirement was **Staff Officer 2 at the Nigerian Naval Headquarters**. That experience strengthened my foundation in mission-critical systems, technical leadership, operational reliability, and applied engineering practice.
 
@@ -217,9 +213,3 @@ My final appointment before retirement was **Staff Officer 2 at the Nigerian Nav
 - **Email:** [gm6629@rit.edu](mailto:gm6629@rit.edu)
 - **GitHub:** [github.com/mbaglo](https://github.com/mbaglo)
 - **ORCID:** [orcid.org/0000-0002-3293-0603](https://orcid.org/0000-0002-3293-0603)
-
----
-
-## Profile Note
-
-I use this GitHub profile to document and share aspects of my academic and research work in embedded systems, inhalant-use measurement, exposure modeling, and computational analysis. It serves as a space for research visibility, scholarly identity, technical documentation, and ongoing project development.
