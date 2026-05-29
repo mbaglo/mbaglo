@@ -161,25 +161,6 @@ Current systems and instrumentation include:
 **B.Eng. in Electrical and Electronic Engineering**  
 **2002 – 2007**
 
-### Selected Coursework
-- Analytical Topics in Computer Engineering
-- Research Methods in Electrical and Computer Engineering
-- Interdisciplinary Research Methods
-- Applied Programming in C
-- Interface and Digital Electronics
-- Real-Time and Embedded Systems
-- Machine Intelligence
-- Doctoral Seminar
-- Human Factors in Artificial Intelligence
-- Digital Signal Processing
-- Measurements and Instrumentation
-- Communication Systems
-- Control Systems
-- Antenna Theory
-- Microprocessor and Microcomputer Systems
-- Semiconductor Devices Technology
-- Introduction to VLSI System Design
-
 ---
 
 ## Professional Background
