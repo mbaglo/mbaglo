@@ -35,18 +35,6 @@ My doctoral research examines how **product characteristics**, **use behavior**,
 
 ---
 
-## Dissertation Research
-
-My dissertation research links **real-world inhalant product use** to **measurable biological response**. Using **Wireless Personal Use Monitors (wPUMs)**, I study puff topography in natural environments and integrate these behavioral measurements with **behavior-based yield** and **Pharmacokinetic Behavior-Based Yield (PKBBY)** modeling to estimate exposure and biomarker response.
-
-### Current Dissertation Direction
-
-- Development of protocols for validation, commissioning, and performance assessment of **Wireless Personal Use Monitor** puff topography systems
-- Analysis of puff topography and session behavior to quantify **natural-environment use patterns**
-- Integration of behavior-based yield and pharmacokinetic modeling to study **nicotine and cotinine biomarker response**
-
----
-
 ## Research Interests
 
 - Real-time embedded systems
